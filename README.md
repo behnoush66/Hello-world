@@ -1,2 +1,3 @@
 # Hello-world
-the first thing i am doing to become familiar with Github
+Hallo,
+I am making some changes in this branch so that it is no longer the same as the default one, the master branch.
